@@ -8,7 +8,7 @@
         <link rel="stylesheet" type="text/css" href="estilo2.css"/>  
     </head>
     
-    <body onload="createDoll(mun)">
+    <body onload="createDoll(GetURLParameter('mname'))">
         
         <div id="interface">
             <header id="cabecalho">
@@ -18,9 +18,16 @@
                 <div>Facilitador Auxiliar de Usuários Sobre o Tópico ODS de Produção</div>
             </header> 
             <form id="search" class="pesquisa" action="index2.html" method="get">
-                <input class="search-txt" type="text" id="mname" name="mname">  
+                <input class="search-txt" type="text" id="mname" name="mname" list="sugestao">
+                <datalist id="sugestao">
+                    <option value="Adolfo"></option>
+                    <option value="Campinas"></option>
+                    <option value="Jarinu"></option>
+                    <option value="Presidente Prudente"></option>
+                    <option value="Santos"></option>
+                </datalist>
             </form>
-            <p>Municipio: <span id="mun"></span></p>
+            <p>Município: <span id="mun"></span></p>
             <div id="display_here"></div>
             
         </div>
@@ -41,7 +48,16 @@
         
         <script type="text/javascript">
             var mun = GetURLParameter('mname');
-            document.getElementById('mun').innerHTML = mun;
+            mun = mun.split("+");
+            var muni;
+            if(mun.length == 2)
+                muni = mun[0] + ' ' + mun[1];
+            else if(mun.length == 3)
+                muni = mun[0] + " " + mun[1] + " " + mun[3];
+            else
+                muni = mun;
+            
+            document.getElementById('mun').innerHTML = muni;
         </script>
      
         <script>
@@ -52,15 +68,31 @@
 
                 var links = [
                     "_imagens/404.png",
-                    "_imagens/logoChart.png",
+                    "_imagens/santosE.png",
+                    "_imagens/jarinuE.png",
+                    "_imagens/presidenteE.png",
+                    "_imagens/adolfoE.png",
+                    "_imagens/campinasE.png",
                     "_imagens/sans.png"
                 ];
 
-                if(userChoice == "Adolfo")
+                if(userChoice == "Santos" || userChoice == "santos")
                     num = 1;
                 
-                else if(userChoice == "Sans")
+                else if(userChoice == "Jarinu" || userChoice == "jarinu")
                     num = 2;
+                
+                else if(userChoice == "Presidente+Prudente" || userChoice == "presidente+prudente")
+                    num = 3;
+                
+                else if(userChoice == "Adolfo" || userChoice == "adolfo")
+                    num = 4;
+                
+                else if(userChoice == "Campinas" || userChoice == "campinas")
+                    num = 5;
+                
+                else if(userChoice == "Sans" || userChoice == "sans")
+                    num = links.length - 1;
                 
                 if(userChoice == "Sans")
                     var sentence = "D3 D3 D4 A4 Ab3 G3 F3 D3 F3 G3</p>";
