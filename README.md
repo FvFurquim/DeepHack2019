@@ -20,7 +20,9 @@ O Facilitador Auxiliar de Usuários Sobre o Tópico ODS de Produção (FAUSTOP) 
 
 
 ## Como Usar o FAUSTOP?
- * O FAUSTOP está disponível para acesso no link www.faus.top.br
+ * O FAUSTOP ainda não está disponível para acesso na Internet, para acessá-lo rode o código de HTML na pasta deepHacksite.
+ 
+ Obs: O site não está completamente funcional. Por mais que as análises foram feitas, nada foi colocado em um banco de dados. Portanto, o site é apenas um protótipo para mostrar como as informações seriam disponibilizadas.
  
 
 ## Integrantes do Projeto
