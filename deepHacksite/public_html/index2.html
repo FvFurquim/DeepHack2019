@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    
+    <head>
+        <title>DeepHack 2019</title>
+        <meta charset="UTF-8">
+        
+        <link rel="stylesheet" type="text/css" href="estilo2.css"/>  
+    </head>
+    
+    <body onload="createDoll(mun)">
+        
+        <div id="interface">
+            <header id="cabecalho">
+                <hgroup>
+                    <h1><a href="index.html">FAUSTOP</a></h1>
+                </hgroup>
+            </header> 
+            <form id="search" class="pesquisa" action="index2.html" method="get">
+                <input class="search-txt" type="text" id="mname" name="mname">  
+            </form>
+            <p>Municipio: <span id="mun"></span></p>
+            <div id="display_here"></div>
+            
+        </div>
+        
+        
+        <script>
+		function GetURLParameter(sParam) {
+                    var sPageURL = window.location.search.substring(1);
+                    var sURLVariables = sPageURL.split('&');
+                    for (var i = 0; i < sURLVariables.length; i++) {
+                        var sParameterName = sURLVariables[i].split('=');
+                        if (sParameterName[0] == sParam) {
+                            return sParameterName[1];
+                        }
+                    }
+                }
+	</script>
+        
+        <script type="text/javascript">
+            var mun = GetURLParameter('mname');
+            document.getElementById('mun').innerHTML = mun;
+        </script>
+     
+        <script>
+            function createDoll(userChoice) {
+                var output = document.getElementById("display_here");
+                output.innerHTML = "";
+                var num = 0;
+
+                var links = [
+                    "_imagens/404.png",
+                    "_imagens/logoChart.png",
+                    "_imagens/sans.png"
+                ];
+
+                if(userChoice == "Adolfo")
+                    num = 1;
+                
+                else if(userChoice == "Sans")
+                    num = 2;
+                
+                if(userChoice == "Sans")
+                    var sentence = "D3 D3 D4 A4 Ab3 G3 F3 D3 F3 G3</p>";
+                else
+                    var sentence = "</p>";
+                
+                var img = '<img src="' + links[num] + '">';
+
+                output.innerHTML = sentence + img;
+            }
+        </script>
+        
+    </body>
+</html>

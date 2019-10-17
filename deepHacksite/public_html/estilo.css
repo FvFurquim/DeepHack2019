@@ -1,0 +1,73 @@
+@charset "UTF-8";
+
+body {
+    position: relative;
+    background-color: #3c3f78;
+    color: rgba(0,0,0,1);
+    background-image: url('_imagens/fundo.png');
+    background-position-x: -10px; 
+    background-size: 1900px ;
+}
+
+h1{
+    color: #282b5e;
+}
+
+div#interface {
+    position: relative;
+    width: 70%;
+    height: 200px;
+    background-color: #ffffff;
+    margin: -20px auto 0px auto;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
+    padding: 10px;
+    font-family: verdana;
+}
+
+input {
+    position: relative;
+    left: 35%;
+    top: 30px;
+    width: 26%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1.5px solid #ccc;
+    border-radius: 4px;
+    font-size: 18px;
+    font-family: 'Arial';
+    background-color: white;
+    background-size: 32px;
+    background-image: url('_imagens/Logolupa2.png');
+    background-position:5px ;
+    -webkit-transition: 1s;
+    transition: 1s;
+    background-repeat: no-repeat;
+    padding: 12px 20px 10px 48px;
+    outline: none;
+}
+
+input:focus{
+    position: relative;
+    left: 0px;
+    border: 1.5px solid #474975;
+    width: 100%;
+    background-color: white;
+    background-size: 32px;
+    background-image: url('_imagens/Logolupa.png');
+    background-position:5px ;
+}
+
+input:action{
+    background-color: red;
+}
+
+p {
+    text-align: justify;
+    text-indent: 20px;
+}
+
+header#cabecalho {
+    border-bottom: 1px #474975 solid;
+    
+}
