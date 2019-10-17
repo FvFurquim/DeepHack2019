@@ -11,7 +11,7 @@ O Facilitador Auxiliar de Usuarios Sobre o Tópico ODS de Produção (FAUSTOP) �
  * A implemetação do site foi realizada em HTML, CSS e JavaScript.
 
 
-## Analise de dados
+## Analise de Dados
    1. Aplicamos o método de **Data Envelopment Analysis**(DEA) para medir a eficiencia dos municipios de São Pualo.
    2. Para o tratamento e a analise de dados, utilizamos o pacote pandas e o módulo pyDEA.
    3. Os dados do TCE-SP foram cruzados com o IDH de cada município (dados disponibilizados pelo IBGE).
@@ -23,7 +23,7 @@ O Facilitador Auxiliar de Usuarios Sobre o Tópico ODS de Produção (FAUSTOP) �
  * O FAUSTOP está disponível para acesso no link www.faus.top.br
  
 
-## Integrantes do projeto
+## Integrantes do Projeto
    * Caio Rodrigues
    * Felipe Furquim
    * Stefany Nohama
