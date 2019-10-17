@@ -4,11 +4,11 @@ Projeto sobre ciência de dados para o Hackfest DeepHack2019 sediado pelo USPCod
 # Faustop
 
 ## Visão Geral
-O Faustop é um projeto que auxilia na identificação dos Objetivos de Desenvolvimento Sustentável (ODS), da Agenda 2030, da ONU a partir de dados do TCE-SP.
+O Faustop é um projeto que auxilia na identificação dos Objetivos de Desenvolvimento Sustentável (ODS), da Agenda 2030 da ONU, a partir de dados do TCE-SP.
 
  * O projeto é focado no **Objetivo 12** da ODS: Assegurar padrões de produção e de consumo sustentáveis.
- * O projeto foi feito na linguagem de programação Python.
- * A implemetação do site foi realizada em JavaScript e CSS.
+ * O projeto foi feito na linguagem de programação Python 3.
+ * A implemetação do site foi realizada em HTML, CSS e JavaScript.
 
 
 ## Analise de dados
@@ -20,7 +20,7 @@ O Faustop é um projeto que auxilia na identificação dos Objetivos de Desenvol
 
 
 ## Como Usar o Faustop?
- * O Faustão está disponível para acesso no link www.faustao.top.br
+ * O Faustop está disponível para acesso no link www.faus.top.br
  
 
 ## Integrantes do projeto
