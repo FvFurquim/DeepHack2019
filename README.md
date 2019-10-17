@@ -1,10 +1,10 @@
 # DeepHack2019
 Projeto sobre ciência de dados para o Hackfest DeepHack2019 sediado pelo USPCodeLab em parceria com NuBank
 
-# Faustão
+# Faustop
 
 ## Visão Geral
-O Faustão é um projeto que auxilia na identificação dos Objetivos de Desenvolvimento Sustentável (ODS), da Agenda 2030, da ONU a partir de dados do TCE-SP.
+O Faustop é um projeto que auxilia na identificação dos Objetivos de Desenvolvimento Sustentável (ODS), da Agenda 2030, da ONU a partir de dados do TCE-SP.
 
  * O projeto é focado no **Objetivo 12** da ODS: Assegurar padrões de produção e de consumo sustentáveis.
  * O projeto foi feito na linguagem de programação Python.
@@ -19,12 +19,11 @@ O Faustão é um projeto que auxilia na identificação dos Objetivos de Desenvo
    5. Por fim, Verificou-se em quais aspectos os municipios poderiam realizar mudanças para aumentar sua eficiencia.
 
 
-## Como Usar o Faustão?
+## Como Usar o Faustop?
  * O Faustão está disponível para acesso no link www.faustao.top.br
  
 
 ## Integrantes do projeto
-   * Stefany Nohama
-   * Felipe Furquim
    * Caio Rodrigues
-
+   * Felipe Furquim
+   * Stefany Nohama
