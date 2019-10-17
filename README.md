@@ -23,3 +23,8 @@ O Faustão é um projeto que auxilia na identificação dos Objetivos de Desenvo
  * O Faustão está disponível para acesso no link www.faustao.top.br
  
 
+## Integrantes do projeto
+   * Stefany Nohama
+   * Felipe Furquim
+   * Caio Rodrigues
+
