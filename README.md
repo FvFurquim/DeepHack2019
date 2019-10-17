@@ -1,5 +1,5 @@
 # DeepHack2019
-Projeto sobre ciência de dados para o Hackfest DeepHack2019 sediado pelo USPCodeLab em parceria com NuBank e Tribunl de Contas Estadual de São Paulo (TCE-SP).
+Projeto sobre ciência de dados para o Hackfest DeepHack2019 sediado pelo USPCodeLab em parceria com NuBank e Tribunal de Contas Estadual de São Paulo (TCE-SP).
 
 # FAUSTOP
 
