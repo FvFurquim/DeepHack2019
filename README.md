@@ -12,7 +12,7 @@ O Facilitador Auxiliar de Usuários Sobre o Tópico ODS de Produção (FAUSTOP) 
 
 
 ## Analise de Dados
-   1. Aplicamos o método de **Data Envelopment Analysis**(DEA) para medir a eficiencia dos municipios de São Pualo.
+   1. Aplicamos o método de **Data Envelopment Analysis**(DEA) para medir a eficiencia dos municipios de São Paulo.
    2. Para o tratamento e a analise de dados, utilizamos o pacote pandas e o módulo pyDEA.
    3. Os dados do TCE-SP foram cruzados com o IDH de cada município (dados disponibilizados pelo IBGE).
    4. Assumimos a cidade com maior eficiencia como modelo e analisamos o padrão em seus resultados.
@@ -20,11 +20,11 @@ O Facilitador Auxiliar de Usuários Sobre o Tópico ODS de Produção (FAUSTOP) 
 
 
 ## Como Usar o FAUSTOP?
- * O FAUSTOP ainda não está disponível para acesso na Internet, para acessá-lo rode o código de HTML na pasta deepHacksite.
+ * O FAUSTOP ainda não está disponível para acesso na Internet. Para acessá-lo, execute o código de HTML na pasta deepHacksite (link a baixo).
+ 
+  Pasta contendo os arquivos essenciais, ou seja, contendo tudo que compõe o site: [deepHacksite Arquivos Essenciais](https://github.com/FvFurquim/DeepHack2019/tree/master/deepHacksite/public_html)
  
  Obs: O site não está completamente funcional. Por mais que as análises foram feitas, nada foi colocado em um banco de dados. Portanto, o site é apenas um protótipo para mostrar como as informações seriam disponibilizadas.
- 
- Pasta contendo os arquivos essenciais, ou seja, contendo tudo que compõe o site: [deepHacksite Arquivos Essenciais](https://github.com/FvFurquim/DeepHack2019/tree/master/deepHacksite/public_html)
 
 ## Integrantes do Projeto
    * Caio Rodrigues
