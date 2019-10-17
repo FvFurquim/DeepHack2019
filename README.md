@@ -1,10 +1,10 @@
 # DeepHack2019
-Projeto sobre ciência de dados para o Hackfest DeepHack2019 sediado pelo USPCodeLab em parceria com NuBank
+Projeto sobre ciência de dados para o Hackfest DeepHack2019 sediado pelo USPCodeLab em parceria com NuBank e Tribunl de Contas Estadual de São Paulo (TCE-SP).
 
-# Faustop
+# FAUSTOP
 
 ## Visão Geral
-O Faustop é um projeto que auxilia na identificação dos Objetivos de Desenvolvimento Sustentável (ODS), da Agenda 2030 da ONU, a partir de dados do TCE-SP.
+O Facilitador Auxiliar de Usuarios Sobre o Tópico ODS de Produção (FAUSTOP) é um projeto que auxilia na identificação dos Objetivos de Desenvolvimento Sustentável (ODS), da Agenda 2030 da ONU, a partir de dados do TCE-SP.
 
  * O projeto é focado no **Objetivo 12** da ODS: Assegurar padrões de produção e de consumo sustentáveis.
  * O projeto foi feito na linguagem de programação Python 3.
@@ -19,8 +19,8 @@ O Faustop é um projeto que auxilia na identificação dos Objetivos de Desenvol
    5. Por fim, Verificou-se em quais aspectos os municipios poderiam realizar mudanças para aumentar sua eficiencia.
 
 
-## Como Usar o Faustop?
- * O Faustop está disponível para acesso no link www.faus.top.br
+## Como Usar o FAUSTOP?
+ * O FAUSTOP está disponível para acesso no link www.faus.top.br
  
 
 ## Integrantes do projeto
