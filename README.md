@@ -9,14 +9,13 @@ O Faustão é um projeto que auxilia na identificação dos Objetivos de Desenvo
  * Foram utilizados o pacote pandas e o módulo pyDEA
  * A implemetação do site foi realizada em JavaScript e CSS
 
-## Metodologia
- ## Analise de dados
+## Analise de dados
    1. Foi utilizado o método de Data Envelopment Analysis(DEA) para medir a eficiencia dos municipios de São Pualo.
    2. Os dados do TCE-SP foram cruzados com o IDH de cada município (dados disponibilizados pelo IBGE)
    3. A partir de uma cidade modelo, observou-se qual o padrão em seus dados
    4. 
 
-# Como Usar o Faustão?
+## Como Usar o Faustão?
  * O Faustão está disponível para acesso no link [Google]www.faustao.top.br
  
 
