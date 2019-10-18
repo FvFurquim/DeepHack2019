@@ -11,12 +11,20 @@ O Facilitador Auxiliar de Usuários Sobre o Tópico ODS de Produção (FAUSTOP) 
  * A implemetação do site foi realizada em HTML, CSS e JavaScript.
 
 
-## Analise de Dados
+# Metodologia
    1. Aplicamos o método de **Data Envelopment Analysis**(DEA) para medir a eficiencia dos municipios de São Paulo.
    2. Para o tratamento e a analise de dados, utilizamos o pacote pandas e o módulo pyDEA.
-   3. Os dados do TCE-SP foram cruzados com o IDH de cada município (dados disponibilizados pelo IBGE).
+   3. Os dados do TCE-SP foram cruzados com o IDH e o PIB de cada município (dados disponibilizados pelo IBGE).
    4. Assumimos a cidade com maior eficiencia como modelo e analisamos o padrão em seus resultados.
    5. Por fim, Verificou-se em quais aspectos os municipios poderiam realizar mudanças para aumentar sua eficiencia.
+
+## Análise de Dados
+### Data Envelopment Analysis (DEA)
+como funciona o dea e o pydea
+
+### Escolha de Variáveis
+Em relação à base de dados disponibilizada pelo TCE-SP, julgamos pertinentes considerar:
+* as receitas, despesas, perguntas, respostas dos municipios. Para complementar a análise, os dados sobre o PIB e o IDH de cada cidade foi considerada.
 
 
 ## Como Usar o FAUSTOP?
