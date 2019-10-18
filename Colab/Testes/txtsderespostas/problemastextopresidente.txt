@@ -1,0 +1,19 @@
+A prefeitura possui Plano de Gestão de Resíduos da Construção Civil elaborado e implantado de acordo com a resolução CONAMA 307/2002 e suas alterações?    1
+
+943064    Sim
+Name: valor_resposta, dtype: object
+O município está habilitado junto ao CONSEMA para licenciar os empreendimentos de impacto local de conformidade com a Deliberação Normativa Consema 01/2014?    1
+
+943092    Não
+
+A prefeitura municipal realiza a coleta seletiva de resíduos sólidos?    1
+
+943060    Sim
+
+O município está habilitado junto ao CONSEMA para licenciar os empreendimentos de impacto local de conformidade com a Deliberação Normativa Consema 01/2014?    1
+
+943092    Não
+
+O município está habilitado junto ao CONSEMA para licenciar os empreendimentos de impacto local de conformidade com a Deliberação Normativa Consema 01/2014?    1
+
+943092    Não

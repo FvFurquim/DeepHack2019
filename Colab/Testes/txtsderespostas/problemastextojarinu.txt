@@ -1,0 +1,171 @@
+Sobre o Plano Municipal de Gestão Integrada de Resíduos Sólidos (PMGIRS) ? Lei nº 12.305/2010 ?, informe:    1
+
+934135    Instrumento normativo publicado ou promulgado
+
+A prefeitura municipal realiza a coleta seletiva de resíduos sólidos?    1
+
+934136    Não
+
+A prefeitura possui Plano de Gestão de Resíduos da Construção Civil elaborado e implantado de acordo com a resolução CONAMA 307/2002 e suas alterações?    1
+
+934137    Sim
+
+A prefeitura municipal estimula entre seus órgãos e entidades de sua responsabilidade projetos e/ou ações que promovam o uso racional de recursos naturais? (ex.: implantação de dispositivos para uso racional da água, coleta seletiva, reuso ou reciclagem de material entre outros)?    1
+
+934141    Parcialmente
+
+A prefeitura possui ou participa de algum programa ou ação que promovam a melhoria contínua da qualidade ambiental no município?    1
+
+934145    Sim
+
+O município possui seu Plano Municipal de Saneamento Básico instituído?    1
+
+934149    Sim
+
+Existe registro do percentual da população do município abrangida pelo serviço de fornecimento de água tratada?    1
+
+934152    Sim
+
+Existem ações e medidas de contingenciamento para os períodos de estiagem?    1
+
+934156    Não
+
+Existem ações e medidas de contingenciamento para provisão de água potável e de uso comum para a Rede Municipal de Ensino?    1
+
+934157    Não
+
+Existem ações e medidas de contingenciamento para provisão de água potável e de uso comum para a rede municipal da Atenção Básica da Saúde?    1
+
+934158    Não
+
+Há um plano emergencial com ações para fornecimento de água potável à população em caso de sua escassez?    1
+
+934159    Não
+
+A prefeitura possui Plano de Gestão de Resíduos da Construção Civil elaborado e implantado de acordo com a resolução CONAMA 307/2002 e suas alterações?    1
+
+934137    Sim
+
+A prefeitura municipal estimula entre seus órgãos e entidades de sua responsabilidade projetos e/ou ações que promovam o uso racional de recursos naturais? (ex.: implantação de dispositivos para uso racional da água, coleta seletiva, reuso ou reciclagem de material entre outros)?    1
+
+934141    Parcialmente
+
+A prefeitura possui ou participa de algum programa ou ação que promovam a melhoria contínua da qualidade ambiental no município?    1
+
+934145    Sim
+
+Existem ações e medidas de contingenciamento para os períodos de estiagem?    1
+
+934156    Não
+
+Existem ações e medidas de contingenciamento para provisão de água potável e de uso comum para a Rede Municipal de Ensino?    1
+
+934157    Não
+
+Existem ações e medidas de contingenciamento para provisão de água potável e de uso comum para a rede municipal da Atenção Básica da Saúde?    1
+
+934158    Não
+
+Há um plano emergencial com ações para fornecimento de água potável à população em caso de sua escassez?    1
+
+934159    Não
+
+O município está habilitado junto ao CONSEMA para licenciar os empreendimentos de impacto local de conformidade com a Deliberação Normativa Consema 01/2014?    1
+
+934161    Não
+
+Existem ações e medidas de contingenciamento para os períodos de estiagem?    1
+
+934156    Não
+
+Há um plano emergencial com ações para fornecimento de água potável à população em caso de sua escassez?    1
+
+934159    Não
+
+O município está habilitado junto ao CONSEMA para licenciar os empreendimentos de impacto local de conformidade com a Deliberação Normativa Consema 01/2014?    1
+
+934161    Não
+
+O município possui controle ou registro das autuações realizadas por queimada urbana?    1
+
+934139    Sim
+
+A prefeitura municipal realiza a coleta seletiva de resíduos sólidos?    1
+
+934136    Não
+
+A prefeitura possui Plano de Gestão de Resíduos da Construção Civil elaborado e implantado de acordo com a resolução CONAMA 307/2002 e suas alterações?    1
+
+934137    Sim
+
+Existem ações e medidas de contingenciamento para provisão de água potável e de uso comum para a Rede Municipal de Ensino?    1
+
+934157    Não
+
+Existem ações e medidas de contingenciamento para provisão de água potável e de uso comum para a rede municipal da Atenção Básica da Saúde?    1
+
+934158    Não
+
+O município possui seu Plano Municipal de Saneamento Básico instituído?    1
+
+934149    Sim
+
+A prefeitura municipal realiza a coleta seletiva de resíduos sólidos?    1
+
+934136    Não
+
+A prefeitura possui Plano de Gestão de Resíduos da Construção Civil elaborado e implantado de acordo com a resolução CONAMA 307/2002 e suas alterações?    1
+
+934137    Sim
+
+O município possui controle ou registro das autuações realizadas por queimada urbana?    1
+
+934139    Sim
+
+O município possui cronograma de manunteção preventiva ou de substituição da frota municipal?    1
+
+934155    Sim
+
+Existem ações e medidas de contingenciamento para os períodos de estiagem?    1
+
+934156    Não
+
+Existem ações e medidas de contingenciamento para provisão de água potável e de uso comum para a Rede Municipal de Ensino?    1
+
+934157    Não
+
+Existem ações e medidas de contingenciamento para provisão de água potável e de uso comum para a rede municipal da Atenção Básica da Saúde?    1
+
+934158    Não
+
+Há um plano emergencial com ações para fornecimento de água potável à população em caso de sua escassez?    1
+
+934159    Não
+
+O município está habilitado junto ao CONSEMA para licenciar os empreendimentos de impacto local de conformidade com a Deliberação Normativa Consema 01/2014?    1
+
+934161    Não
+
+A prefeitura municipal realiza a coleta seletiva de resíduos sólidos?    1
+
+934136    Não
+
+Existem ações e medidas de contingenciamento para os períodos de estiagem?    1
+
+934156    Não
+
+Existem ações e medidas de contingenciamento para provisão de água potável e de uso comum para a Rede Municipal de Ensino?    1
+
+934157    Não
+
+Existem ações e medidas de contingenciamento para provisão de água potável e de uso comum para a rede municipal da Atenção Básica da Saúde?    1
+
+934158    Não
+
+Há um plano emergencial com ações para fornecimento de água potável à população em caso de sua escassez?    1
+
+934159    Não
+
+O município está habilitado junto ao CONSEMA para licenciar os empreendimentos de impacto local de conformidade com a Deliberação Normativa Consema 01/2014?    1
+
+934161    Não
