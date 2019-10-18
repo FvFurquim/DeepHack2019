@@ -7,7 +7,7 @@ Projeto sobre ciência de dados para o Hackfest DeepHack2019 sediado pelo USPCod
 O Facilitador Auxiliar de Usuários Sobre o Tópico ODS de Produção (FAUSTOP) é um projeto que auxilia na identificação dos Objetivos de Desenvolvimento Sustentável (ODS), da Agenda 2030 da ONU, a partir de dados do TCE-SP.
 
  * O projeto é focado no **Objetivo 12** da ODS: Assegurar padrões de produção e de consumo sustentáveis.
- * O projeto foi feito na linguagem de programação Python 3.
+ * O projeto foi feito no Google Colab e Pycharm na linguagem de programação Python 3, utilizando principalmente as seguintes bibliotecas: pandas, numpy, matplotlib e pydea.
  * A implemetação do site foi realizada em HTML, CSS e JavaScript.
 
 
@@ -18,9 +18,11 @@ O Facilitador Auxiliar de Usuários Sobre o Tópico ODS de Produção (FAUSTOP) 
    4. Assumimos a cidade com maior eficiencia como modelo e analisamos o padrão em seus resultados.
    5. Por fim, Verificou-se em quais aspectos os municipios poderiam realizar mudanças para aumentar sua eficiencia.
 
+### Data Envelopment Analysis
+DEA é uma técnica de comparação avançada onde os próprios elementos em análise servem como parâmetro de eficiência. O interessante é que nesse processo, não se retorna o maior elemento, e sim o mais eficiente. Tudo que precisa ser feito é inserir os inputs (insumos) e um ou dois resultados equiparáveis, os outputs (resultado).
 
 ## Como Usar o FAUSTOP?
-O FAUSTOP ainda não está disponível para acesso na Internet. Para acessá-lo, execute o código de HTML na pasta deepHacksite (link a baixo).
+O FAUSTOP ainda não está disponível para acesso na Internet. Para acessá-lo, execute o código de HTML na pasta deepHacksite (link abaixo).
  
   Pasta contendo os arquivos essenciais, ou seja, contendo tudo que compõe o site: [deepHacksite Arquivos Essenciais](https://github.com/FvFurquim/DeepHack2019/tree/master/deepHacksite/public_html)
  
