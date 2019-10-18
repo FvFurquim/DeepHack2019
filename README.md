@@ -19,7 +19,14 @@ O Facilitador Auxiliar de Usuários Sobre o Tópico ODS de Produção (FAUSTOP) 
    5. Por fim, Verificou-se em quais aspectos os municipios poderiam realizar mudanças para aumentar sua eficiencia.
 
 ### Data Envelopment Analysis
-DEA é uma técnica de comparação avançada onde os próprios elementos em análise servem como parâmetro de eficiência. O interessante é que nesse processo, não se retorna o maior elemento, e sim o mais eficiente. Tudo que precisa ser feito é inserir os inputs (insumos) e um ou dois resultados equiparáveis, os outputs (resultado).
+DEA é uma técnica de comparação avançada onde os próprios elementos em análise servem como parâmetro de eficiência. O interessante é que nesse processo, não se retorna o maior elemento, e sim o mais eficiente. Tudo que precisa ser feito é inserir os inputs (insumos) e um ou dois resultados equiparáveis, os outputs (resultado). Selecionamos como input para pyDEA, o IDH e a receita do município dividindo-o pelo PIB do Estado. Para output, selecionamos a relação entre perguntas respondidas positivamente (P), negativamente(N) e as neutras (X) através da fórmula: (2 * P + X) / N. 
+
+### Escolha de Variáveis
+Em relação à base de dados disponibilizada pelo TCE-SP, julgamos pertinentes considerar para a análise: as receitas, despesas, perguntas e respostas relacionadas ao Objetivo 12 da ODS dos municípios (IEGM). Além disso, para complementar a análise, os dados sobre o PIB e o IDH de cada cidade foram considerados.
+
+### Resultados
+Após a análise dos dados, a cidade com maior grau de eficiência --Santos-- foi escolhida como modelo. As respostas da cidade modelo e das demais cidades foram comparadas. Ao final, as perguntas com maiores índices de discrepâncias são apresentadas como tópicos a serem levados em maior consideração.
+
 
 ## Como Usar o FAUSTOP?
 O FAUSTOP ainda não está disponível para acesso na Internet. Para acessá-lo, execute o código de HTML na pasta deepHacksite (link abaixo).
