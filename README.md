@@ -8,15 +8,15 @@ O Facilitador Auxiliar de Usuários Sobre o Tópico ODS de Produção (FAUSTOP) 
 
  * O projeto é focado no **Objetivo 12** da ODS: Assegurar padrões de produção e de consumo sustentáveis.
  * O projeto foi feito no Google Colab e Pycharm na linguagem de programação Python 3, utilizando principalmente as seguintes bibliotecas: pandas, numpy, matplotlib e pydea.
- * A implemetação do site foi realizada em HTML, CSS e JavaScript.
+ * A implementação do site foi realizada em HTML, CSS e JavaScript.
 
 
 ## Analise de Dados
-   1. Aplicamos o método de **Data Envelopment Analysis**(DEA) para medir a eficiencia dos municipios de São Paulo.
-   2. Para o tratamento e a analise de dados, utilizamos o pacote pandas e o módulo pyDEA.
+   1. Aplicamos o método de **Data Envelopment Analysis**(DEA) para medir a eficiência dos municípios de São Paulo.
+   2. Para o tratamento e a análise de dados, utilizamos o pacote pandas e o módulo pyDEA.
    3. Os dados do TCE-SP foram cruzados com o IDH de cada município (dados disponibilizados pelo IBGE).
-   4. Assumimos a cidade com maior eficiencia como modelo e analisamos o padrão em seus resultados.
-   5. Por fim, Verificou-se em quais aspectos os municipios poderiam realizar mudanças para aumentar sua eficiencia.
+   4. Assumimos a cidade com maior eficiência como modelo e analisamos o padrão em seus resultados.
+   5. Por fim, verificou-se em quais aspectos os municípios poderiam realizar mudanças para aumentar sua eficiência.
 
 ### Data Envelopment Analysis
 DEA é uma técnica de comparação avançada onde os próprios elementos em análise servem como parâmetro de eficiência. O interessante é que nesse processo, não se retorna o maior elemento, e sim o mais eficiente. Tudo que precisa ser feito é inserir os inputs (insumos) e um ou dois resultados equiparáveis, os outputs (resultado). Selecionamos como input para pyDEA, o IDH e a receita do município dividindo-o pelo PIB do Estado. Para output, selecionamos a relação entre perguntas respondidas positivamente (P), negativamente(N) e as neutras (X) através da fórmula: (2 * P + X) / N. 
