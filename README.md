@@ -20,7 +20,7 @@ O Facilitador Auxiliar de Usuários Sobre o Tópico ODS de Produção (FAUSTOP) 
 
 
 ## Como Usar o FAUSTOP?
- * O FAUSTOP ainda não está disponível para acesso na Internet. Para acessá-lo, execute o código de HTML na pasta deepHacksite (link a baixo).
+ O FAUSTOP ainda não está disponível para acesso na Internet. Para acessá-lo, execute o código de HTML na pasta deepHacksite (link a baixo).
  
   Pasta contendo os arquivos essenciais, ou seja, contendo tudo que compõe o site: [deepHacksite Arquivos Essenciais](https://github.com/FvFurquim/DeepHack2019/tree/master/deepHacksite/public_html)
  
